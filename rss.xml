@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Activities of Mitchell Enterprises]]></title>
+        <description><![CDATA[Activities of Mitchell Enterprises]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Dec 2015 00:48:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Creativity]]></title>
+            <description><![CDATA[<article><h1>Creativity</h1><p>Creativity is always a leap of faith. You're faced with a blank page, blank easel, or an empty stage.</p></article>]]></description>
+            <link>undefinedcreativity/index.html</link>
+            <guid isPermaLink="false">577d592f-39f0-4060-8ba0-68f00062ba25</guid>
+            <pubDate>Sun, 20 Dec 2015 00:48:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
