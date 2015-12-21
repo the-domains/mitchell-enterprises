@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Leap of Faith
-datePublished: '2015-12-20T00:48:43.670Z'
-dateModified: '2015-12-20T00:48:12.325Z'
+datePublished: '2015-12-21T02:16:49.522Z'
+dateModified: '2015-12-21T02:15:10.944Z'
 title: Creativity
 author: []
+sourcePath: _posts/2015-12-20-creativity.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-20-creativity.md
-published: true
 url: creativity/index.html
 _type: Article
 
