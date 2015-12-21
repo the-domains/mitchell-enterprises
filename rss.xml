@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Activities of Mitchell Enterprises]]></title>
         <description><![CDATA[Activities of Mitchell Enterprises]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mitchell-enterprises/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 00:48:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 02:17:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mitchell-enterprises/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Creativity]]></title>
             <description><![CDATA[<article><h1>Creativity</h1><p>Creativity is always a leap of faith. You're faced with a blank page, blank easel, or an empty stage.</p></article>]]></description>
-            <link>undefinedcreativity/index.html</link>
+            <link>https://thegrid.ai/mitchell-enterprises/creativity/index.html</link>
             <guid isPermaLink="false">577d592f-39f0-4060-8ba0-68f00062ba25</guid>
-            <pubDate>Sun, 20 Dec 2015 00:48:43 GMT</pubDate>
+            <pubDate>Mon, 21 Dec 2015 02:16:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
