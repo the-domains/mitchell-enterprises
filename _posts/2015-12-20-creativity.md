@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Leap of Faith
-datePublished: '2015-12-21T02:16:49.522Z'
-dateModified: '2015-12-21T02:15:10.944Z'
+datePublished: '2015-12-21T03:48:03.139Z'
+dateModified: '2015-12-21T03:45:15.787Z'
 title: Creativity
 author: []
 sourcePath: _posts/2015-12-20-creativity.md
@@ -22,4 +22,4 @@ url: creativity/index.html
 _type: Article
 
 ---
-Creativity is always a leap of faith. You're faced with a blank page, blank easel, or an empty stage.
+> # Creativity is always a leap of faith. You're faced with a blank page, blank easel, or an empty stage.
